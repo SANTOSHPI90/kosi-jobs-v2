@@ -104,7 +104,7 @@ export default function KosiJobHub() {
             <div className="p-8 grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="space-y-4 text-sm">
                 <div><h4 className="text-slate-500 font-bold uppercase text-[10px]">Eligibility</h4><p>{selectedJob.eligibility}</p></div>
-                <div><h4 className="text-slate-500 font-bold uppercase text-[10px]">Required</h4><ul className="list-disc list-inside">{selectedJob.documents.map((d,i)=><li key={i}>{d}</li>)}</ul></div>
+                <div><h4 className="text-slate-500 font-bold uppercase text-[10px]">Required</h4><ul className="list-disc list-inside">{selectedJob.documents.map((d: any, i: any)=><li key={i}>{d}</li>)}</ul></div>
               </div>
               <div className="bg-white/5 p-6 rounded-2xl space-y-4">
                 <div><h4 className="text-slate-500 font-bold uppercase text-[10px]">Salary</h4><p className="text-emerald-400 font-bold text-xl">{selectedJob.salary}</p></div>
