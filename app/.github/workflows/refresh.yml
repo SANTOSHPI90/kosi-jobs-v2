@@ -1,0 +1,32 @@
+name: Daily Job Refresh
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # This tells GitHub to run this every night at 12:00 AM
+  workflow_dispatch: # This adds a button so you can run it manually to test
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Scraper Tools
+        run: pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Save New Jobs to GitHub
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add jobs.json
+          git commit -m "Automated job refresh" || exit 0
+          git push

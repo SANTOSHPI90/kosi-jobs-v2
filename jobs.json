@@ -1,0 +1,87 @@
+[
+    {
+        "id": "GOV-madhepura-5506",
+        "title": "Recruitment For District Child Protection Unit",
+        "department": "District Administration",
+        "location": "Madhepura",
+        "sector": "Government",
+        "salary": "As per Govt Norms",
+        "lastDate": "06/03/2025",
+        "eligibility": "Refer to official PDF on portal.",
+        "documents": [
+            "Aadhar",
+            "Marksheets",
+            "Residential"
+        ],
+        "examDetails": "Merit/Written",
+        "officialLink": "https://madhepura.nic.in/notice/recruitment/"
+    },
+    {
+        "id": "GOV-supaul-7661",
+        "title": "Recruitment of BTM/ATM in ATMA,supaul through waiting list",
+        "department": "District Administration",
+        "location": "Supaul",
+        "sector": "Government",
+        "salary": "As per Govt Norms",
+        "lastDate": "24/12/2019",
+        "eligibility": "Refer to official PDF on portal.",
+        "documents": [
+            "Aadhar",
+            "Marksheets",
+            "Residential"
+        ],
+        "examDetails": "Merit/Written",
+        "officialLink": "https://supaul.nic.in/notice/recruitment/"
+    },
+    {
+        "id": "PVT-ALSTOM-001",
+        "title": "Industrial Quality Engineer",
+        "department": "Alstom Madhepura",
+        "location": "Madhepura",
+        "sector": "Private",
+        "salary": "\u20b94.5 - 8.0 LPA",
+        "lastDate": "April 30, 2026",
+        "eligibility": "B.E/B.Tech (Mech/Elec) with 3-7 years experience.",
+        "documents": [
+            "Resume",
+            "Experience Letter",
+            "Degree"
+        ],
+        "examDetails": "Technical & HR Interview",
+        "officialLink": "https://jobsearch.alstom.com/search/?q=Madhepura"
+    },
+    {
+        "id": "GOV-JEEVIKA-2026",
+        "title": "Office Assistant / IT Executive",
+        "department": "Bihar Jeevika (BRLPS)",
+        "location": "All Districts (Kosi)",
+        "sector": "Government",
+        "salary": "\u20b915,000 - \u20b925,000",
+        "lastDate": "Results/DV Phase",
+        "eligibility": "Graduate / ITI / Diploma (As per 2025-26 drive).",
+        "documents": [
+            "CBT Scorecard",
+            "ID Proof",
+            "Certificates"
+        ],
+        "examDetails": "Document Verification / Skill Test",
+        "officialLink": "https://brlps.in/career"
+    },
+    {
+        "id": "PVT-HEALTH-001",
+        "title": "Staff Nurse / Medical Officer",
+        "department": "Shiva Hospital / Medical College",
+        "location": "Madhepura",
+        "sector": "Private",
+        "salary": "Negotiable",
+        "lastDate": "Ongoing",
+        "eligibility": "B.Sc Nursing / GNM / MBBS.",
+        "documents": [
+            "Registration",
+            "Resume",
+            "ID"
+        ],
+        "examDetails": "Walk-in Interview",
+        "officialLink": "https://shivahospital.in/healthcare-jobs-in-madhepura-bihar-india.html"
+    }
+]
