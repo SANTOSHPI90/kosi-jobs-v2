@@ -4,7 +4,7 @@ import { MapPin, Calendar, ExternalLink, Briefcase, X, Search, Building2, Shield
 import INITIAL_JOBS from '../jobs.json';
 
 export default function KosiJobHub() {
-  const [selectedJob, setSelectedJob] = useState(null);
+  const [selectedJob, setSelectedJob] = useState<any>(null);
   const [filter, setFilter] = useState('All');
   const [sectorFilter, setSectorFilter] = useState('All');
   const [search, setSearch] = useState('');
