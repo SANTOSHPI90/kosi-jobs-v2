@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from 'react';
 import { MapPin, Calendar, ExternalLink, Briefcase, X, Search, Building2, ShieldCheck } from 'lucide-react';
-import INITIAL_JOBS from '../jobs.json';
+import INITIAL_JOBS from './jobs.json';
 
 export default function KosiJobHub() {
   const [selectedJob, setSelectedJob] = useState<any>(null);
