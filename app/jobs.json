@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "Data Entry Operator",
+    "department": "Madhepura District Court",
+    "location": "Madhepura",
+    "sector": "Government",
+    "salary": "₹25,500/month",
+    "lastDate": "2026-04-30",
+    "eligibility": "Graduation + Computer Typing",
+    "documents": ["Aadhar", "Graduation Marksheet", "Typing Certificate"],
+    "examDetails": "Written Test & Typing Skill Test",
+    "officialLink": "https://districts.ecourts.gov.in/madhepura"
+  },
+  {
+    "id": "2",
+    "title": "Assembly Line Technician",
+    "department": "Alstom Locomotive Plant",
+    "location": "Madhepura",
+    "sector": "Private",
+    "salary": "₹18,000 - ₹22,000/month",
+    "lastDate": "Open",
+    "eligibility": "ITI (Fitter/Electrician)",
+    "documents": ["ITI Certificate", "Resume", "PAN Card"],
+    "examDetails": "Walk-in Interview",
+    "officialLink": "https://www.alstom.com/careers"
+  },
+  {
+    "id": "BLK-MD-2026",
+    "title": "Panchayat Executive Assistant",
+    "department": "Panchayati Raj Dept",
+    "location": "Gwalpara Block, Madhepura",
+    "sector": "Government",
+    "salary": "₹15,000 - ₹20,000",
+    "lastDate": "2026-04-20",
+    "eligibility": "12th Pass + PGDCA/DCA Computer Certificate.",
+    "documents": ["Computer Cert", "Residential", "Intermediate Marksheet"],
+    "examDetails": "Typing Test & Academic Merit",
+    "officialLink": "https://state.bihar.gov.in/prd/CitizenHome.html"
+  },
+  {
+    "id": "HLTH-SH-2026",
+    "title": "ANM / GNM Nursing Staff",
+    "department": "District Health Society",
+    "location": "Saharsa PHC",
+    "sector": "Government",
+    "salary": "As per NHM Bihar scales",
+    "lastDate": "2026-05-15",
+    "eligibility": "Diploma in Nursing (ANM/GNM) registered with BRC.",
+    "documents": ["Nursing Registration", "Experience", "ID"],
+    "examDetails": "Interview / Merit List",
+    "officialLink": "https://statehealthsocietybihar.org"
+  },
+  {
+    "id": "PVT-BANK-SUPAUL",
+    "title": "Relationship Manager",
+    "department": "Bandhan Bank",
+    "location": "Supaul Branch",
+    "sector": "Private",
+    "salary": "₹2.4 - 3.6 LPA",
+    "lastDate": "Immediate Hiring",
+    "eligibility": "Any Graduate. Local candidates preferred.",
+    "documents": ["Updated Resume", "PAN", "Degrees"],
+    "examDetails": "Personal Interview",
+    "officialLink": "https://www.ncs.gov.in"
+  }
+]
