@@ -1,4 +1,4 @@
-export const revalidate = 0;
+export const dynamic = 'force-dynamic';
 "use client";
 import React, { useState } from 'react';
 import { MapPin, Calendar, ExternalLink, Briefcase, X, Search, Building2, ShieldCheck } from 'lucide-react';
